@@ -55,7 +55,7 @@ echo $3
 wget -O $TMP_IMG_1 $3 
 wait
 convert $TMP_IMG_1 -resize $1x -colorspace Gray $TMP_IMG_2
-python3 asskey_utils.py "$TMP_IMG_2" "$2"
+python3 /usr/local/bin/asskey_utils.py "$TMP_IMG_2" "$2"
 
 rm $TMP_IMG_1
 rm $TMP_IMG_2
