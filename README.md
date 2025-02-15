@@ -53,7 +53,7 @@ Outputs this:
 ####GG::::::::::::....::::::::::::::....::::::::::......::::::::::..........::::
 ```
 # History
-In 2025 a legend tasked another legend with downloading an image from the web and turning it into an image. This is the result of that.\
+In 2025 a legend tasked another legend with downloading an image from the web and turning it into an ascii image. This is the result of that.\
 Why is it called asskey? Well it sounds like ascii and its kinda funny :).
 
 # Installation
